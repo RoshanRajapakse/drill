@@ -55,8 +55,8 @@
     <parquet.version>1.12.2</parquet.version>
     <parquet.format.version>2.8.0</parquet.format.version>
     <calcite.groupId>org.apache.calcite</calcite.groupId>
-    <calcite.version>1.33.0</calcite.version>
-    <avatica.version>1.23.0</avatica.version>
+    <calcite.version>1.35.0</calcite.version>
+    <avatica.version>1.24.0</avatica.version>
     <janino.version>3.1.8</janino.version>
     <sqlline.version>1.12.0</sqlline.version>
     <jackson.version>2.14.1</jackson.version>
@@ -127,14 +127,14 @@
     <xerces.version>2.12.2</xerces.version>
     <commons.configuration.version>1.10</commons.configuration.version>
     <commons.beanutils.version>1.9.4</commons.beanutils.version>
-    <httpdlog-parser.version>5.8</httpdlog-parser.version>
+    <httpdlog-parser.version>5.10.0</httpdlog-parser.version>
     <yauaa.version>7.9.0</yauaa.version>
     <log4j.version>2.19.0</log4j.version>
     <aircompressor.version>0.20</aircompressor.version>
     <iceberg.version>0.12.1</iceberg.version>
     <univocity-parsers.version>2.8.3</univocity-parsers.version>
     <mongo.version>4.3.3</mongo.version>
-    <swagger.version>2.1.12</swagger.version>
+    <swagger.version>2.2.11</swagger.version>
     <junit.args/>
   </properties>
 
