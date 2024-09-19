@@ -29,7 +29,7 @@
   <name>Drill : Contrib : Storage : Phoenix</name>
 
   <properties>
-    <phoenix.version>5.1.2</phoenix.version>
+    <phoenix.version>5.2.0</phoenix.version>
     <!-- Keep the 2.4.2 to reduce dependency conflict -->
     <hbase.minicluster.version>2.4.2</hbase.minicluster.version>
     <skipTests>false</skipTests>
