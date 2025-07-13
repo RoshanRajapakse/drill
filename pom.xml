@@ -56,7 +56,7 @@
     <parquet.format.version>2.8.0</parquet.format.version>
     <calcite.groupId>org.apache.calcite</calcite.groupId>
     <calcite.version>1.33.0</calcite.version>
-    <avatica.version>1.23.0</avatica.version>
+    <avatica.version>1.24.0</avatica.version>
     <janino.version>3.1.8</janino.version>
     <sqlline.version>1.12.0</sqlline.version>
     <jackson.version>2.14.1</jackson.version>
