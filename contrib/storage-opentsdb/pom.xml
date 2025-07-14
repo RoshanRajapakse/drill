@@ -31,7 +31,7 @@
     <name>Drill : Contrib : Storage : OpenTSDB</name>
 
     <properties>
-        <retrofit.version>2.8.1</retrofit.version>
+        <retrofit.version>2.10.0</retrofit.version>
     </properties>
 
     <dependencies>
