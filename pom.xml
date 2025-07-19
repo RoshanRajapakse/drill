@@ -66,7 +66,7 @@
     <kerby.version>1.0.0</kerby.version>
     <findbugs.version>3.0.0</findbugs.version>
     <netty.tcnative.classifier/>
-    <commons.io.version>2.7</commons.io.version>
+    <commons.io.version>2.14.0</commons.io.version>
     <commons.collections.version>4.4</commons.collections.version>
     <hamcrest.version>2.2</hamcrest.version>
     <curator.version>5.2.0</curator.version>
@@ -114,7 +114,7 @@
     <jna.version>5.8.0</jna.version>
     <commons.compress.version>1.21</commons.compress.version>
     <hikari.version>4.0.3</hikari.version>
-    <netty.version>4.1.73.Final</netty.version>
+    <netty.version>4.1.118.Final</netty.version>
     <httpclient.version>4.5.13</httpclient.version>
     <libthrift.version>0.14.0</libthrift.version>
     <derby.version>10.14.2.0</derby.version>
@@ -127,8 +127,8 @@
     <xerces.version>2.12.2</xerces.version>
     <commons.configuration.version>1.10</commons.configuration.version>
     <commons.beanutils.version>1.9.4</commons.beanutils.version>
-    <httpdlog-parser.version>5.8</httpdlog-parser.version>
-    <yauaa.version>7.9.0</yauaa.version>
+    <httpdlog-parser.version>5.10.0</httpdlog-parser.version>
+    <yauaa.version>7.24.0</yauaa.version>
     <log4j.version>2.19.0</log4j.version>
     <aircompressor.version>0.20</aircompressor.version>
     <iceberg.version>0.12.1</iceberg.version>
