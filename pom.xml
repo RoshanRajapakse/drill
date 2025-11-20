@@ -90,7 +90,7 @@
     <avro.version>1.11.1</avro.version>
     <metrics.version>4.2.10</metrics.version>
     <jetty.version>9.4.44.v20210927</jetty.version>
-    <jersey.version>2.34</jersey.version>
+    <jersey.version>2.46</jersey.version>
     <javax.validation.api>2.0.1.Final</javax.validation.api>
     <asm.version>9.2</asm.version>
     <excludedGroups/>
